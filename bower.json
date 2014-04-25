@@ -1,0 +1,10 @@
+{
+    "name": "marionettejs_with_doT",
+    "dependencies": {
+        "underscore": null,
+        "backbone": null,
+        "jquery": null,
+        "bootstrap": null,
+		"doT": null
+    }
+}
