@@ -1,4 +1,4 @@
-// the only thing that you need to do in order to replace the stock underscore templating with
+// setting Marionette.TemplateCache.prototype.compileTemplate is the only thing that you need to do in order to replace the stock underscore templating with
 // doT
 
 Marionette.TemplateCache.prototype.compileTemplate= function(rawTemplate){
